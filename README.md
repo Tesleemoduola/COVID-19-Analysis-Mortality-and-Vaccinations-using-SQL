@@ -1,4 +1,7 @@
 # COVID-19: Analysis-Mortality-and-Vaccinations-using-SQL
+
+![](covid19.jpg)
+
 The objective of this project was to analyze the relationship between COVID-19 deaths and vaccinations across different countries and continents. 
 Using data from the CovidDeaths and CovidVaccinations datasets, the project aimed to calculate vaccination rates, assess the impact of vaccination 
 efforts on the population, and track cumulative vaccination progress over time. This analysis helped to understand the effectiveness of vaccination programs,
