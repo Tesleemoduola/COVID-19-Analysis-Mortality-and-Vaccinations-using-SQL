@@ -1,4 +1,4 @@
-# COVID-19: Analysis-Mortality-and-Vaccinations-using-SQL
+# COVID-19 Analysis: -Mortality-and-Vaccinations-using-SQL
 
 ![](covid19.jpg)
 
